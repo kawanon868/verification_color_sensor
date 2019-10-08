@@ -1,0 +1,62 @@
+﻿Sleep_duration = 0 [ms] :
+Test_1 :     6 [ms]
+Test_2 :     6 [ms]
+Test_3 :  7632 [ms]
+
+Sleep_duration = 1 [ms] :
+Test_1 :  2000 [ms]
+Test_2 :  2000 [ms]
+Test_3 :  8009 [ms]
+
+Sleep_duration = 2 [ms] :
+Test_1 :  3000 [ms]
+Test_2 :  3000 [ms]
+Test_3 :  9245 [ms]
+
+Sleep_duration = 3 [ms] :
+Test_1 :  4000 [ms]
+Test_2 :  4000 [ms]
+Test_3 : 10306 [ms]
+
+Sleep_duration = 4 [ms] :
+Test_1 :  5000 [ms]
+Test_2 :  5000 [ms]
+Test_3 : 11160 [ms]
+
+Sleep_duration = 5 [ms] :
+Test_1 :  6000 [ms]
+Test_2 :  6000 [ms]
+Test_3 : 12267 [ms]
+
+Sleep_duration = 6 [ms] :
+Test_1 :  7000 [ms]
+Test_2 :  7000 [ms]
+Test_3 : 13174 [ms]
+
+Sleep_duration = 7 [ms] :
+Test_1 :  8000 [ms]
+Test_2 :  8000 [ms]
+Test_3 : 14250 [ms]
+
+Sleep_duration = 8 [ms] :
+Test_1 :  9000 [ms]
+Test_2 :  9000 [ms]
+Test_3 : 15144 [ms]
+
+Sleep_duration = 9 [ms] :
+Test_1 : 10000 [ms]
+Test_2 : 10000 [ms]
+Test_3 : 16170 [ms]
+
+Sleep_duration = 10 [ms] :
+Test_1 : 11000 [ms]
+Test_2 : 11000 [ms]
+Test_3 : 17238 [ms]
+
+
+Test_4 (bright to RGB) :
+Ave :  7.24
+SD  :  0.43
+Test_4 (RGB to bright) :
+Ave :  8.38
+SD  :  1.22
